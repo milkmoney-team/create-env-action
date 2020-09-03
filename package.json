@@ -1,0 +1,24 @@
+{
+  "name": "create-env-action",
+  "version": "1.0.0",
+  "description": "This action creates a `.env` file with provided inputs",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milkmoney-team/create-env-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milkmoney-team/create-env-action/issues"
+  },
+  "homepage": "https://github.com/milkmoney-team/create-env-action#readme"
+}

@@ -1,0 +1,5 @@
+name: "Create env"
+description: "Creates a .env file"
+runs:
+  using: "node12"
+  main: "index.js"
